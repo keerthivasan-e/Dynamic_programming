@@ -12,6 +12,7 @@ false
 true
 false
 
+
 Input2:
 Pattern :
 x?y*z
